@@ -1,3 +1,4 @@
+<<<<<<< HEAD:0x03-git/up_to_date
 git clone
 echo
 cat
@@ -9,3 +10,27 @@ git push
 git checkout -b
 git checkout
 git pull 
+=======
+<<<<<<< HEAD
+Git command line used:
+	git clone
+	echo
+	cat
+=======
+Git command line used
+	git clone
+>>>>>>> parent of d5a38fe... How to be up to date in git
+	git config --global user.email
+	git config --global user.name
+	git add .
+	git commit -m
+	git push
+	git checkout -b
+	git checkout
+	git pull
+<<<<<<< HEAD
+	git log
+=======
+>>>>>>> parent of d5a38fe... How to be up to date in git
+
+>>>>>>> update_script:up_to_date
