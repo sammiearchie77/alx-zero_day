@@ -1,0 +1,11 @@
+Git command line used
+	git clone
+	git config --global user.email
+	git config --global user.name
+	git add .
+	git commit -m
+	git push
+	git checkout -b
+	git checkout
+	git pull
+
