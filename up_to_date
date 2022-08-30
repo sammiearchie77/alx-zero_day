@@ -10,4 +10,5 @@ Git command line used:
 	git checkout -b
 	git checkout
 	git pull
+	git log
 
