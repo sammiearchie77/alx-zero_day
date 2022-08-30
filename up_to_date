@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 Git command line used:
 	git clone
 	echo
 	cat
+=======
+Git command line used
+	git clone
+>>>>>>> parent of d5a38fe... How to be up to date in git
 	git config --global user.email
 	git config --global user.name
 	git add .
@@ -10,5 +15,8 @@ Git command line used:
 	git checkout -b
 	git checkout
 	git pull
+<<<<<<< HEAD
 	git log
+=======
+>>>>>>> parent of d5a38fe... How to be up to date in git
 
